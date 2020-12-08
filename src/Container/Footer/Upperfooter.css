@@ -1,0 +1,174 @@
+.foot {
+    margin-top: 0!important;
+}
+footer .row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+footer .footer-up {
+    background-color: #fff;
+    box-shadow: 15px 0 40px -20px rgba(69,90,100,0.3);
+}
+.footer-up {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+@media (min-width: 1200px){
+.container {
+width: 1170px;
+}}
+@media (min-width: 992px){
+.container {
+    width: 970px;
+}}
+@media (min-width: 768px){
+.container {
+    width: 750px;
+}}
+
+@media only screen and (max-device-width: 480px) and (min-device-width: 320px){
+footer .first {
+    border-right: 0;
+    padding: 0 40px;
+}}
+
+footer .first {
+    line-height: 22px;
+    border-right: 3px solid #ececec;
+        padding: 0 40px;
+}
+.col-md-6 .col-md-3{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media (min-width: 992px){
+.col-md-6 {
+    width: 50%;
+    float: left;
+}}
+@media (min-width: 992px){
+.col-md-3 {
+    width: 25%;
+    float: left;
+}}
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+}
+img {
+    border: 0;
+}
+footer .last {
+    text-align: left;
+    text-justify: inter-word;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: .5px;
+    color: #161616;
+    font-family: 'Source Sans Pro';
+}
+p {
+    margin: 0 0 10px;
+    color: #161616;
+    font-family: 'Source Sans Pro';
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+@media only screen and (max-device-width: 960px) and (min-device-width: 320px){
+footer .last {
+    text-align: -webkit-auto;
+}}
+
+
+
+
+@media only screen and (max-device-width: 480px) and (min-device-width: 320px){
+footer .downloadEduvanzApp {
+    border-right: 0;
+}}
+footer .downloadEduvanzApp {
+    border-right: 3px solid #ececec;
+}
+.downloadText {
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin: 0 0 -4px;
+    color: #444140;
+}
+.eduvanzApp {
+    font-size: 18px;
+    font-weight: 300;
+}
+.footerlogoimg {
+    margin-top: -14px;
+}
+.scanner {
+    display: inline-flex;
+    padding-top: 5px;
+}
+.downloadText {
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin: 0 0 -4px;
+    color: #444140;
+}
+#eduvanzApp {
+    margin-bottom: 13px;
+}
+
+footer #icon-facebook {
+    border: 2px solid #3b5998;
+    background-color: #3b5998;
+}
+footer #icon-twitter {
+    border: 2px solid #00aced;
+    background-color: #00aced;
+}
+footer #icon-linkedin {
+    border: 2px solid #0077b5;
+    background-color: #0077b5;
+}
+footer #icon-youtube {
+    border: 2px solid #c4302b;
+    background-color: #c4302b;
+}
+.icon-facebook-f{
+    content: "\e90f";
+}
+footer .smGlobalBtn {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+    font-size: 19px;
+    font-weight: normal;
+    margin: 0 5px 0 5px;
+    line-height: 2em;
+    border-radius: 25px;
+    -moz-border-radius: 25px;
+    -webkit-border-radius: 25px;
+}
